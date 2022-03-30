@@ -1,0 +1,140 @@
+.a {
+  display: flex;
+  background-color: #29bfbf;
+  color: white;
+}
+li {
+  display: inline;
+  padding: 5px;
+  margin: 10px;
+  font-size: 20px;
+}
+body {
+  margin: 0;
+  padding: 0;
+}
+.ele{
+    display: flex;
+    justify-content: space-around;
+}
+.a2 {
+  padding: 10px;
+  padding-left: 100px;
+}
+#s {
+  width: 400px;
+  height: 20px;
+  margin: 15px;
+}
+#k {
+  margin-top: 20px;
+  margin-left: 10px;
+  padding: 5px;
+  border: 2px solid green;
+  font-weight: bold;
+}
+#k2 {
+  margin-left: 600px;
+  font-weight: bolder;
+}
+.q1,
+.q2 {
+  display: inline-flex;
+}
+#name {
+  margin-top: 12px;
+  margin-left: 100px;
+}
+#name1 {
+  margin-top: 12px;
+  margin-left: 87px;
+}
+#author {
+  margin-top: 12px;
+  margin-left: 98px;
+}
+#author1 {
+  margin-top: 12px;
+  margin-left: 65px;
+}
+h2 {
+  margin-left: 142px;
+  font-weight: 3;
+}
+#form {
+  margin-left: 0px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding: 5px;
+  margin-right: 0px;
+}
+#su {
+  margin-top: 30px;
+  margin-left: 20px;
+  background-color: rgb(45, 126, 247);
+  color: white;
+  padding: 8px;
+  width: 75px;
+}
+#st {
+  margin-top: 30px;
+  margin-left: 20px;
+  background-color: #fc0808;
+  color: white;
+  padding: 8px;
+  width: 75px;
+}
+#kj {
+  font-size: larger;
+}
+h3 {
+  text-align: center;
+  font-weight: bolder;
+  font-size: x-large;
+}
+table {
+  margin-top: 35px;
+  margin-left: 2px;
+  font-size: 14px;
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 956px;
+  margin-bottom: 50px;
+}
+.l {
+  display: flex;
+    margin-left: 76px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    padding: 5px;
+    margin-right: 21px;
+    width: 587px;
+    height: 170px;
+}
+tr,
+td {
+  border: 2px solid black;
+  text-align: center;
+  padding: 11px;
+}
+tr:nth-child(odd) {
+  background-color: #dddddd;
+}
+th {
+  background-color: white;
+}
+.b4 {
+  color: white;
+  background-color: rgb(45, 126, 247);
+}
+.y1 {
+  display: flex;
+}
+.ine{
+  margin-left: 20px;
+}
+.jo{
+  display: flex;
+  margin-top: -21px;
+}
+.vr{
+  margin-left: 4px;
+}
